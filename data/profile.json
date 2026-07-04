@@ -1,0 +1,204 @@
+{
+  "name": {
+    "first": "Abdulla",
+    "last": "Shaik",
+    "full": "Shaik Abdulla"
+  },
+  "email": "shaikabdullas457@gmail.com",
+  "phone": "+91 9703970139",
+  "tagline": "Building scalable, high-performance digital experiences on Adobe Experience Manager.",
+  "description": "Senior AEM Developer with 6.5+ years designing, developing, and migrating enterprise-scale digital solutions on Adobe Experience Manager for banking, hospitality, automotive, and aviation clients.",
+  "roles": {
+    "short": "Senior AEM Developer",
+    "detailed": "AEM Sites & Forms | Cloud Service Migrations | Enterprise Integrations"
+  },
+  "location": {
+    "based": "Hyderabad, Telangana, India",
+    "availability": "Hyderabad / Remote"
+  },
+  "available": true,
+  "bio": "Senior AEM Developer with 6.5+ years of experience designing, developing, and implementing enterprise-scale digital solutions using Adobe Experience Manager (Sites, Assets, and Forms). Expertise in custom component development, Sling Models, OSGi services, Multi-Site Management, Dispatcher configuration, and AEM Cloud Service migrations. Proven experience delivering scalable, high-performance, SEO-optimized websites for global clients across banking, hospitality, automotive, and aviation industries, integrating AEM with external systems via REST and SOAP APIs, and driving end-to-end delivery in Agile environments.",
+  "stats": [
+    { "value": "6.5+", "label": "Years Experience" },
+    { "value": "5", "label": "Enterprise Clients" },
+    { "value": "70+", "label": "Global Sites Migrated" }
+  ],
+  "skills": [
+    "AEM Sites",
+    "AEM Forms",
+    "Sling Models",
+    "OSGi Services",
+    "HTL / Sightly",
+    "Multi-Site Management",
+    "Dispatcher",
+    "AEM Cloud Service",
+    "Java",
+    "JSP",
+    "REST APIs",
+    "Content Fragments",
+    "Experience Fragments",
+    "Maven",
+    "Jenkins",
+    "Git",
+    "Cloud Manager",
+    "Agile / Scrum"
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "role": "AEM Developer — Forms",
+      "company": "Hayagreeva Consulting Pvt. Ltd.",
+      "companyShort": "HAYAGREEVA",
+      "type": "Full-time",
+      "location": "Hyderabad, India",
+      "period": "Oct 2025",
+      "periodEnd": "Mar 2026",
+      "client": "Client: HDFC Bank — Digital Banking & Customer Onboarding",
+      "bullets": [
+        "Developed and customized Adaptive Forms using HTL, HTML5, CSS3, and JavaScript for HDFC Bank's customer onboarding, identity verification, loan origination, and account opening journeys, implementing dynamic rules, client-side validations, and conditional field behaviors.",
+        "Integrated Adaptive Forms with core banking systems and third-party platforms via REST APIs and Form Data Models (FDM), enabling real-time data pre-population, validation, and seamless backend data exchange.",
+        "Architected reusable client libraries, form fragments, and editable templates that reduced cross-project development effort by approximately 30% and enforced UI consistency across all customer-facing forms.",
+        "Configured FDMs for secure backend and third-party connectivity, and leveraged Sling Resource Merger to overlay foundation pages with custom properties without modifying core code.",
+        "Partnered with backend engineers, QA, and business stakeholders in Agile sprints via Jira, achieving 100% on-time delivery of all digital banking form features."
+      ],
+      "desc": "Adaptive Forms development, REST/FDM integrations, and reusable component architecture for HDFC Bank's digital onboarding journeys.",
+      "tech": ["AEM Forms", "HTL", "REST API", "FDM", "Sling Resource Merger", "Jira"]
+    },
+    {
+      "id": 2,
+      "role": "AEM Developer — Sites",
+      "company": "Yinbotech Systems Pvt. Ltd.",
+      "companyShort": "YINBOTECH",
+      "type": "Full-time",
+      "location": "Hyderabad, India",
+      "period": "Jan 2024",
+      "periodEnd": "Sep 2025",
+      "client": "Client: Carnival Cruise Line — Global Guest Digital Experience Platform",
+      "bullets": [
+        "Architected and developed a library of 25+ reusable AEM Sites components, editable templates, and hierarchical page structures powering multi-regional guest portals across 15+ site variants serving millions of annual visitors.",
+        "Built and deployed OSGi services and Sling Models for backend REST API integration, dynamically pulling cruise itinerary, cabin availability, and pricing data into AEM components with zero manual intervention.",
+        "Implemented centralized Experience Fragments for navigation, promotional banners, and global footers, enabling single-source updates that propagated instantly to 15+ regional properties.",
+        "Optimized Dispatcher caching rules, introduced lazy-loading strategies, and applied HTTP cache-control tuning, improving average page load performance by approximately 25% and strengthening Core Web Vitals."
+      ],
+      "desc": "AEM Sites component architecture, OSGi/Sling Model integrations, and Dispatcher performance tuning for Carnival's global guest platform.",
+      "tech": ["AEM Sites", "OSGi", "Sling Models", "Experience Fragments", "Dispatcher"]
+    },
+    {
+      "id": 3,
+      "role": "AEM Developer — Sites",
+      "company": "Yinbotech Systems Pvt. Ltd.",
+      "companyShort": "YINBOTECH",
+      "type": "Full-time",
+      "location": "Hyderabad, India",
+      "period": "Jan 2023",
+      "periodEnd": "Dec 2023",
+      "client": "Client: Hyatt Hotels Corporation — Hyatt.com AEM Cloud Migration",
+      "bullets": [
+        "Led end-to-end migration of 70+ localized Hyatt websites from AEM 6.5 on-premise to AEM as a Cloud Service, orchestrating content migration, component refactoring, and OSGi bundle compatibility remediation.",
+        "Containerized AEM Author, Publish, and Dispatcher tiers using POD-based infrastructure, configuring Kubernetes-managed deployments via Cloud Manager pipelines for rolling updates and rapid rollback.",
+        "Refactored and migrated a comprehensive library of components, Content Fragments, and Experience Fragments to AEMaaCS-compliant standards, reducing authoring effort by approximately 35% post-migration.",
+        "Executed large-scale DAM migration of 50,000+ digital assets to AEMaaCS, re-engineering custom metadata schemas for accurate tagging and improved global asset search."
+      ],
+      "desc": "Zero-content-loss migration of 70+ localized websites to AEM as a Cloud Service, with POD-based containerization and large-scale DAM migration.",
+      "tech": ["AEM Cloud Service", "Cloud Manager", "Kubernetes", "DAM", "Content Fragments"]
+    },
+    {
+      "id": 4,
+      "role": "AEM Developer — Sites",
+      "company": "Yinbotech Systems Pvt. Ltd.",
+      "companyShort": "YINBOTECH",
+      "type": "Full-time",
+      "location": "Hyderabad, India",
+      "period": "Jun 2021",
+      "periodEnd": "Dec 2022",
+      "client": "Client: Mitsubishi Motors — AEM Migration & Global Product Marketing",
+      "bullets": [
+        "Spearheaded migration of Mitsubishi Motors' global marketing websites from AEM 6.3 to AEM 6.5, auditing legacy components and OSGi configurations and refactoring custom code to ensure zero regression across 10+ regional markets.",
+        "Rebuilt MSM Blueprint and Live Copy structures, re-applying rollout configurations for seamless global-to-local content propagation and consistent cross-regional branding.",
+        "Rebuilt OSGi bundles and Sling Models to re-integrate vehicle catalog data from manufacturer backend APIs, validating 500+ vehicle specifications post-migration and reducing time-to-publish by 60%.",
+        "Re-established Dispatcher caching strategies and front-end performance tuning, achieving sub-2-second global page loads and automating DAM approval workflows to improve asset delivery speed by approximately 40%."
+      ],
+      "desc": "AEM 6.3 to 6.5 platform migration, MSM rollout re-architecture, and OSGi/Dispatcher performance work for Mitsubishi Motors' global sites.",
+      "tech": ["AEM 6.5", "MSM", "OSGi", "Dispatcher", "DAM Workflows"]
+    },
+    {
+      "id": 5,
+      "role": "Java Developer → AEM Developer",
+      "company": "Yinbotech Systems Pvt. Ltd.",
+      "companyShort": "YINBOTECH",
+      "type": "Full-time",
+      "location": "Hyderabad, India",
+      "period": "Jul 2019",
+      "periodEnd": "May 2021",
+      "client": "Client: JetBlue Airways — Java Development & AEM Sites Transition",
+      "bullets": [
+        "Developed and maintained RESTful web services, Java servlets, and JSP-based back-end integrations supporting JetBlue's core digital customer engagement systems, before transitioning into AEM development.",
+        "Led AEM 6.3 to 6.5 platform migration for JetBlue's digital properties, auditing legacy components and custom OSGi bundles and resolving API compatibility issues with zero downtime post-upgrade.",
+        "Developed custom AEM components, editable templates, and Sling Models powering flight search, booking confirmation, and loyalty account pages, integrated with backend flight data APIs via OSGi services.",
+        "Built and maintained client libraries for front-end JavaScript and CSS, implementing responsive design patterns and cross-browser compatibility across all JetBlue digital touchpoints."
+      ],
+      "desc": "Java/JSP backend development followed by an AEM 6.3 to 6.5 migration and custom component development for JetBlue's digital properties.",
+      "tech": ["Java", "JSP", "REST", "AEM 6.5", "OSGi", "Sling Models"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "HDFC Bank",
+      "subtitle": "Digital Banking & Customer Onboarding",
+      "type": "AEM Forms",
+      "link": "mailto:shaikabdullas457@gmail.com",
+      "image": "/assets/project-hdfc.png",
+      "tech": ["Adaptive Forms", "HTL", "REST API", "Form Data Models", "Sling Resource Merger"],
+      "desc": "Adaptive Forms for customer onboarding, identity verification, and loan origination, integrated with core banking systems via REST and FDM, cutting cross-project development effort by ~30%."
+    },
+    {
+      "id": 2,
+      "title": "Carnival Cruise Line",
+      "subtitle": "Global Guest Digital Experience Platform",
+      "type": "AEM Sites",
+      "link": "mailto:shaikabdullas457@gmail.com",
+      "image": "/assets/project-carnival.png",
+      "tech": ["AEM Sites", "OSGi", "Sling Models", "Experience Fragments", "Dispatcher"],
+      "desc": "A 25+ component library and centralized Experience Fragments powering 15+ regional guest portals, with Dispatcher tuning that improved page load performance by ~25%."
+    }
+  ],
+  "publications": [
+    {
+      "id": 1,
+      "title": "AEM Cloud Service Migration",
+      "platform": "Practice Area",
+      "year": "2026",
+      "link": "mailto:shaikabdullas457@gmail.com",
+      "desc": "End-to-end migration planning from AEM on-premise to AEM as a Cloud Service, covering content migration, component refactoring, and POD-based containerized testing."
+    },
+    {
+      "id": 2,
+      "title": "AEM Forms & Adaptive Forms",
+      "platform": "Practice Area",
+      "year": "2026",
+      "link": "mailto:shaikabdullas457@gmail.com",
+      "desc": "Adaptive Forms design, Form Data Model integrations, prefill services, e-signatures, and document generation workflows for enterprise digital onboarding."
+    },
+    {
+      "id": 3,
+      "title": "Multi-Site Management at Scale",
+      "platform": "Practice Area",
+      "year": "2026",
+      "link": "mailto:shaikabdullas457@gmail.com",
+      "desc": "Blueprint and Live Copy architecture, rollout configuration, and localization strategy for global brands operating 70+ regional websites."
+    },
+    {
+      "id": 4,
+      "title": "Enterprise AEM Advisory",
+      "platform": "Practice Area",
+      "year": "2026",
+      "link": "mailto:shaikabdullas457@gmail.com",
+      "desc": "Architecture, Dispatcher caching strategy, performance tuning, and OSGi/Sling Model integration guidance for AEM Sites and Forms implementations."
+    }
+  ],
+  "socials": [
+    { "label": "LinkedIn", "href": "https://www.linkedin.com/in/shaik-abdulla-s/" },
+    { "label": "GitHub", "href": "https://github.com/ajaykumarketha1-dev" }
+  ]
+}

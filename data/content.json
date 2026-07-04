@@ -1,0 +1,22 @@
+{
+  "site": {
+    "tagline": "Portfolio 2026"
+  },
+  "hero": {
+    "taglineHighlight": "AEM",
+    "freelanceNote": "Open to Senior AEM Developer, AEM Sites/Forms, and Cloud Service migration opportunities.",
+    "availableLabel": "Available for opportunities",
+    "pills": ["AEM Sites", "AEM Forms", "Cloud Service Migration", "Enterprise Integrations"],
+    "specialistStat": { "value": "AEM + Cloud", "label": "Specialist" }
+  },
+  "interstitial": {
+    "availabilityLabel": "Availability",
+    "basedInLabel": "Based in",
+    "statLabels": ["Years\nexperience", "Enterprise\nclients", "Global sites\nmigrated"]
+  },
+  "footer": {
+    "eyebrow": "Available for enterprise AEM engagements",
+    "ctaLines": ["Building digital experiences", "the world can rely on"],
+    "ctaAccent": "at scale."
+  }
+}
